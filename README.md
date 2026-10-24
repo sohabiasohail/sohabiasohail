@@ -1,7 +1,7 @@
 <!-- Animated introduction -->
 <div align="center">
 
-# 👋 Hi, I'm Sohabia Sohail
+#  Hi, I'm Sohabia Sohail
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI%2FML+Engineer;Learning+Python+and+Building+Projects;Turning+Ideas+Into+Code" alt="Typing introduction" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, automation, and software development**.
 
@@ -41,14 +41,14 @@ I'm a Computer Science student interested in **Artificial Intelligence, Machine 
 
 </div>
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Python programming and problem-solving
 - AI and Machine Learning fundamentals
 - Data analysis and dataset-based projects
 - Version control and collaborative development
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 *More projects coming as I continue learning and building.*
 
